@@ -2,11 +2,10 @@
 
 FastAPI Version Handler is a Python package that provides efficient header-based routing for API versioning in FastAPI.
 
-## Note
-
+#### Note:
 This is an experimental project, a cleaned and upgraded version from https://pypi.org/project/verselect/ until I discovered the real project behind https://github.com/zmievsa/cadwyn
 
-Explore the CadWyn project, it's interesting how it supports working on a single version while auto-generating the schemas and routes for older versions (Stripe-like API versioning).
+If you are interested in more about this topic, I would recommend to explore the CadWyn project, it provides a complete solution and workflow for working on single version of the code while auto-generating the schemas and routes for older versions (Stripe-like API versioning).
 
 ## Features
 
